@@ -1,6 +1,6 @@
-# Celduin Modpack
+# Celduin's Modpack
 
-Welcome to the **Celduin Modpack**, specially crafted for the **Celduin Minecraft Server**! This modpack offers a rich and diverse gameplay experience, combining exploration, adventure, and utility mods to elevate your Minecraft journey.
+Welcome to the **Celduin's Modpack**, specially crafted for the **Celduin Minecraft Server**! This modpack offers a rich and diverse gameplay experience, combining exploration, adventure, and utility mods to elevate your Minecraft journey.
 
 ### Modrinth Links
 - [Celduin's Modpack](https://modrinth.com/modpack/celduins-modpack)  
