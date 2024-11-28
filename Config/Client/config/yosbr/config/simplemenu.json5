@@ -26,5 +26,5 @@
 	// Whether experimental/beta mod loader text should be removed from the main menu.
 	"removeExperimentalModLoaderText": true,
 	// Whether the text in the bottom left should be removed from the main menu.
-	"removeTextBottomLeft": true
+	"removeTextBottomLeft": false
 }

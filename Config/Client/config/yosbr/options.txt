@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SmoothFont_1.21.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.9.2.zip"]
+resourcePacks:["vanilla","file/SodiumTranslations.zip","fabric","file/SmoothFont_1.21.zip","file/3D Default 1.20+ v1.10.2.zip","file/FreshAnimations_v1.9.2.zip"]
 incompatibleResourcePacks:["additionalstructures","appleskin","balm-fabric","bookshelf","carryon","controlling","disenchanting_table","enchdesc","fog","jade","mr_dungeons_andtaverns","mr_dungeons_andtavernswoodlandmansionreplacement","mru","netherportalfix","searchables","terrablender","toms_storage","waystones","worldedit","yet_another_config_lib_v3"]
 lastServer:
 lang:de_de
